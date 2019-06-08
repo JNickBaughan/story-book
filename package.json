@@ -1,0 +1,32 @@
+{
+  "name": "story-book",
+  "version": "1.0.0",
+  "description": "react story-book playground",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JNickBaughan/story-book.git"
+  },
+  "keywords": [
+    "react",
+    "story-book"
+  ],
+  "author": "J Nick Baughan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JNickBaughan/story-book/issues"
+  },
+  "homepage": "https://github.com/JNickBaughan/story-book#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@storybook/react": "^5.1.3",
+    "babel-loader": "^8.0.6"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
